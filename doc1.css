@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.class1{
+    display: flex;
+    background-color: red;
+    flex: 1;
+    
+}
+.class4{
+    display: flex;
+    flex:9;
+}
+.class2{
+    display: flex;
+    background-color: green;
+    flex: 5;
+    flex-direction: row;
+}
+.class3{
+    display: flex;
+    background-color: yellow;
+    flex: 5;
+    flex-direction: row;
+}
